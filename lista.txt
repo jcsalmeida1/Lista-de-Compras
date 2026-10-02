@@ -2,4 +2,5 @@ Preciso Comprar:
 banana
 abaxi
 maça
+goiaba
 Essa é minha lista de compras.
