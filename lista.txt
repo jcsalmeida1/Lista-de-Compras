@@ -1,8 +1,8 @@
 Preciso Comprar:
 
-abaxi
-maça
-goiaba
-kiwii
+ABACAXI
+MAÇA
+UVAS
+GOIABA
 
 Essa é minha lista de compras.
